@@ -1,0 +1,29 @@
+{
+    "name": "newsoc",
+    "description": "An altered version of Casper for New Socialist",
+    "version": "2.1.0",
+    "engines": {
+        "ghost": ">= 1.0.0"
+    },
+    "license": "MIT",
+    "screenshots": {
+    },
+    "author": {
+        "name": "Joe Corcoran",
+        "email": "joe@corcoran.io",
+        "url": "https://corcoran.io"
+    },
+    "gpm": {
+        "type": "theme",
+        "categories": [
+            "Minimal"
+        ]
+    },
+    "config": {
+        "posts_per_page": 5
+    },
+    "keywords": [
+        "ghost",
+        "theme"
+    ]
+}
