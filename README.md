@@ -1,5 +1,7 @@
 # newsoc
 
+**Deprecated since we moved off Ghost.**
+
 Ghost theme for New Socialist.
 
 # Making a new release
